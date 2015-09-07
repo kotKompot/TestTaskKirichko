@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tariff plan manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Логин: </string>
+    <string name="password">Пароль: </string>
+    <string name="Enter">Вход </string>
+    <string name="ChangeTariff"> Изменить тариф </string>
+    <string name="WrongLogin"> Неправильный логин </string>
+</resources>
